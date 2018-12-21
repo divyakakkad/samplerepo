@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-18T10:11:29Z" name="Suite1" finished-at="2018-12-18T10:11:29Z" duration-ms="182">
+    <groups>
+      <group name="logout">
+        <method signature="TestngExample.testmethod3()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" name="testmethod3" class="com.trishana.maven.samples.TestngExample"/>
+      </group> <!-- logout -->
+      <group name="login">
+        <method signature="TestngExample.testmethod2()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" name="testmethod2" class="com.trishana.maven.samples.TestngExample"/>
+      </group> <!-- login -->
+    </groups>
+    <test started-at="2018-12-18T10:11:29Z" name="com.trishana.maven.samples" finished-at="2018-12-18T10:11:29Z" duration-ms="182">
+      <class name="com.trishana.maven.samples.TestngExample">
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod2()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod2" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod2 -->
+        <test-method signature="testmethod1()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod1" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="testmethod3()[pri:0, instance:com.trishana.maven.samples.TestngExample@6e509ffa]" started-at="2018-12-18T10:11:29Z" name="testmethod3" finished-at="2018-12-18T10:11:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod3 -->
+      </class> <!-- com.trishana.maven.samples.TestngExample -->
+    </test> <!-- com.trishana.maven.samples -->
+  </suite> <!-- Suite1 -->
+</testng-results>
